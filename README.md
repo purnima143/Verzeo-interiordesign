@@ -1,7 +1,17 @@
 # Verzeo-interiordesign
-## Title of our project is INTERIOR DESIGN.
+## INTERIOR DESIGN:Website
+
+[![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/uses-git.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/makes-people-smile.svg)](https://forthebadge.com)
+
+
 This website which we have designed is to show our knowledge gained during  internship training.
 This responsive and beautiful HTML5 template is based on Bootstrap4. No doubt, you can easily alter your website template into organic, cosmetics, electronics, furniture and medical.:blush: :v:
+
+[ Click here ](https://purnima143.github.io/Verzeo-interiordesign/) to check the site.
+
 
 
 ## Main Features List: :+1:
