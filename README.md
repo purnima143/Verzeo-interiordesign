@@ -1,5 +1,6 @@
 # Verzeo-interiordesign
-##Title of our project is INTERIOR DESIGN.
+## Title of our project is INTERIOR DESIGN.
+
 My self Raga Lakshmi Keerthana.
 mail id:mentakeerthana5@gmail.com
 This website which we have designed is to show our knowledge gained during  internship training.
