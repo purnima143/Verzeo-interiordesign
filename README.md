@@ -1,4 +1,4 @@
-# Verzeo-interiordesign
+# Verzeo-Internship
 ## INTERIOR DESIGN:Website
 
 [![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com)
